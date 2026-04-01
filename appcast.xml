@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/NathanColby/projector-releases/releases/download/v1.0.0/Projector-1.0.0.dmg" length="9230630" type="application/octet-stream" sparkle:edSignature="3aEcFBMpt1kzcpr4cVmhy3N574WoZE1ZIA3jmLfzBHk3tStJHjI+pzEVVUUh9lpD0zWpx78KW5e3T/wnPlmNAQ=="/>
+            <enclosure url="https://github.com/NathanColby/projector-releases/releases/download/v1.0.0/Projector-1.0.0.dmg" length="9318485" type="application/octet-stream" sparkle:edSignature="1IFs0hwR4m1quYcoeA4VGors+Oztmjx8kVXLJPiIAasu4eGhEIW7qvaVO/aMKS1aRRMhCmvAVmYS3ir71ke2BQ=="/>
         </item>
     </channel>
 </rss>
