@@ -4,12 +4,12 @@
         <title>Projector</title>
         <item>
             <title>1.1.0</title>
-            <pubDate>Tue, 31 Mar 2026 23:43:47 -0700</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Tue, 31 Mar 2026 23:45:40 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/NathanColby/projector-releases/releases/download/v1.1.0/Projector-1.1.0.dmg" length="9230331" type="application/octet-stream" sparkle:edSignature="TVnIhFSy5RTGijnFJ9uxIGKQMHIK2KRclnpftgyoPlAf3CuYbnF0PoHKWKQN6DV8e7nqcusjkZerquJ5/7G2CQ=="/>
+            <enclosure url="https://github.com/NathanColby/projector-releases/releases/download/v1.1.0/Projector-1.1.0.dmg" length="9230308" type="application/octet-stream" sparkle:edSignature="lCGWymPISN1jIRY8PZSgK7oPamKLLGn7MSNRAn2Ztu1pwM1UnjHJK97hx8uTnXlfGD3tKkn/sEcBDMSd5m/fDg=="/>
         </item>
     </channel>
 </rss>
